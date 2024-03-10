@@ -8,10 +8,6 @@ You've gone camping alone in the forest. After pitching your tent, you decided t
 *   Mobile – 1x Finger touch to go forward + 2x Fingers touch to go backward + Gaze cursor for click
 *   VR/AR – walk + Teleport (Grip for grab and laser for click) + Gaze cursor for click
 
-#### Source code
-
-> [Github repo](https://github.com/Chabloz/a-frame-vite-vue-boilerplate)
-
 _Included_
 
 [aframe-extras controls and animation-mixer](https://github.com/c-frame/aframe-extras)
